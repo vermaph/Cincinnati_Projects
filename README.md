@@ -1,6 +1,6 @@
 # Hello.
 
-This is a collection of some of my work/pet projects when I was pursuing my masters in business analytcis from the University of Cincinnati. Some of the interesting projects I have completed so far are:
+This is a collection of some of pet projects when I was pursuing my masters in business analytcis from the University of Cincinnati. Some of the interesting projects I did were:
 
   1. Building a R Shiny appliction to predict the next word when a user enters a string of words (Check out the application here: https://vermaph.shinyapps.io/Nextword/)
   2. Customer Segmentation for a retail supermarket using K-means clustering and Customer Value Model in R 
